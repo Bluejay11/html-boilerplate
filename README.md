@@ -1,2 +1,2 @@
-# html-boilerplate
+# html-foundations
 first html code 
